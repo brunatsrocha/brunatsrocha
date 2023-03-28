@@ -1,16 +1,14 @@
-### Hi there 👋
+:raising_hand: Olá, pessoal :raising_hand: <br>
 
-<!--
-**brunatsrocha/brunatsrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:woman: Eu sou a Bruna, em 2023 dei um novo rumo para minha vida profissional e imergi nos conhecimentos sobre programação. Comprei cursos e passo o periodo da tarde e noite estudando e praticando programação. No periodo da manhã continuo trabalhando como fisioterapeuta enquanto não migro totalmente para a área da programação.<br>
 
-Here are some ideas to get you started:
+:computer: Estou muito animada com meus estudos e novos conhecimentos, desde janeiro de 2023 dei inicio, e estou até agora conseguindo acompanhar tudo o que esta sendo proposto nos conteudos dos cursos. Tinha medo por me interessar por uma área totalmente diferente da fisioterapia, mas é entusiasmante ver o quanto tenho conseguido aprender algo tão diferente e considerado tão dificil. Isso só me dá ainda mais vontade de continuar. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Sou determinada e já me vejo como programadora Front End!<br>
+
+:rocket: Já aprendi HTML, CSS, Java Script. <br>
+:rocket: Já fiz reuniões pelo Discord para desenvolver um projeto em grupo.<br>
+:rocket: Já manuseei o Figma. <br>
+
+:rocket: Estou adentrando nos estudos em React agora.
+

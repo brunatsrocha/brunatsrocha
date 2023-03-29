@@ -8,7 +8,7 @@
 
 :rocket: Já aprendi HTML, CSS, Java Script. <br>
 :rocket: Já fiz reuniões pelo Discord para desenvolver um projeto em grupo.<br>
-:rocket: Já manuseei o Figma. <br>
+:rocket: Já usei o Figma. <br>
 
 :rocket: Estou adentrando nos estudos em React agora.
 
